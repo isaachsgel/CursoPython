@@ -51,5 +51,5 @@ Módulo V (4hr)
 
 ## Informacion de Instructor: 
 
-* Isaach, isaac@utp.ac.pa, 
+* Isaach, isaac.sagel@utp.ac.pa, 
 
